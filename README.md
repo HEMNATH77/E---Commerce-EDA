@@ -10,7 +10,6 @@ This project demonstrates an end-to-end exploratory data analysis (EDA) of an e-
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Prerequisites](#prerequisites)
-- [Setup](#setup)
 - [Code Walkthrough](#code-walkthrough)
 - [Visualizations](#visualizations)
 - [Results](#results)
@@ -50,23 +49,7 @@ To run this project, ensure you have the following installed:
 
 ---
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/e-commerce-data-analysis.git
-   cd e-commerce-data-analysis
-   ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Place the **E commerce 2024.csv** file in the root directory of the project.
-4. Run the script:
-   ```bash
-   python analysis.py
-   ```
 
----
 
 ## Code Walkthrough
 
