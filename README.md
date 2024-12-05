@@ -13,7 +13,6 @@ This project demonstrates an end-to-end exploratory data analysis (EDA) of an e-
 - [Code Walkthrough](#code-walkthrough)
 - [Visualizations](#visualizations)
 - [Results](#results)
-- [License](#license)
 
 ---
 
