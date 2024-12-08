@@ -2,7 +2,7 @@
 
 # E-Commerce Data Analysis 2024
 
-This project demonstrates an end-to-end exploratory data analysis (EDA) of an e-commerce dataset using Python. It includes steps to clean, filter, visualize, and analyze data to gain insights into sales, discounts, and payment methods.
+This project demonstrates an end-to-end exploratory data analysis (EDA) of an e-commerce dataset using Python. It includes steps to clean, filter, visualize, and analyze data to gain insights into sales, discounts, and payment methods through various Charts.
 
 ---
 
